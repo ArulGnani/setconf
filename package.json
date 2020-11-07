@@ -1,0 +1,29 @@
+{
+  "name": "setconf",
+  "version": "1.2.8",
+  "description": "simple cli tool to save and use config easily.",
+  "main": "src/main.js",
+  "bin": "src/main.js",
+  "preferGlobal": true,
+  "scripts": {},
+  "keywords": [
+    "cli",
+    "config",
+    "store",
+    "configuration",
+    "setconf"
+  ],
+  "author": "Arul Gnani",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^6.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArulGnani/setconf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ArulGnani/setconf/issues"
+  },
+  "homepage": "https://github.com/ArulGnani/setconf#readme"
+}
