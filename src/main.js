@@ -2,7 +2,7 @@
 
 const { Command } = require("commander")
 const { 
-        showALlConfigFiles, 
+        showAllConfigFiles, 
         saveFile,
         removeConfigFile,
         updateConfigFile,
@@ -21,7 +21,7 @@ program
 program
     .command("show-all")
     .description("shows all saved config files")
-    .action(() => showALlConfigFiles())    
+    .action(() => showAllConfigFiles())    
 
 
 // save config file

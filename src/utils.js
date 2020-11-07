@@ -37,7 +37,7 @@ const checkFileExist = (fileName) => {
 }
 
 // show's all the saved config files
-const showALlConfigFiles = () => {
+const showAllConfigFiles = () => {
 
     let dirExist = checkMainDir()
     if (!dirExist) createMainDir()
@@ -185,7 +185,7 @@ const updateConfigFile = (fileName) => {
 
 
 module.exports = {
-    showALlConfigFiles,
+    showAllConfigFiles,
     saveFile,
     removeConfigFile,
     updateConfigFile,
