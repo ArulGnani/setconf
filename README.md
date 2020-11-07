@@ -34,7 +34,7 @@ $ npx setconf show-all
 
 #### **Add new config file to manage**
 
--- Note: make sure your are in the same directory where your config is saved.
+-- Note: make sure you are in the same directory where your config is saved.
 
 ``` bash
 $ npx setconf add <filename>
