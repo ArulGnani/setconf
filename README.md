@@ -21,7 +21,7 @@ $ npm update -g setconf
 
 
 ## Usage 
-to make sure that cli is properly installedc and check the current version.
+check the current version.
 ``` bash
 $ npx setconf -V
 ```

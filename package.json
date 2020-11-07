@@ -1,6 +1,6 @@
 {
   "name": "setconf",
-  "version": "1.2.11",
+  "version": "1.2.12",
   "description": "simple cli tool to save and use config easily.",
   "main": "src/main.js",
   "bin": "src/main.js",
