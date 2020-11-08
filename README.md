@@ -58,7 +58,7 @@ $ npx setconf update <filename>
 $ npx setconf remove <filename>
 ```
 
-#### **for more info and using alias** 
+#### **for more info** 
 ``` bash
 $ npx setconf --help
 ```
